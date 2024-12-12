@@ -1,3 +1,6 @@
+
+  
+
 *{
 
     padding: 0;
@@ -6,15 +9,21 @@
     box-sizing: border-box;
 }
 
-
 body{
 
-    margin:  0;
+    font-family: "Open Sans", sans-serif;
 
 }
+
 
 .navlist li a{
     /* Quitar la decoracion de los links  */
     text-decoration: none;
     color: saddlebrown;
+}
+
+.navbar-logo {
+
+
+    text-decoration: none;
 }
