@@ -1,21 +1,20 @@
+*{
+
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+
 body{
 
     margin:  0;
 
 }
 
-.titulo{
-
-    /* Tamaño de la letra */
-    font-size: medium;
-    /* Color de la letra */
-   color:whitesmoke;
-    /* color de fondo */
-   background-color: blueviolet;
-   /* margin afecta al espacio que rodea un elemento */
-
-   
-    margin-right: 400px;
-     margin-left:  50px;
-
+.navlist li a{
+    /* Quitar la decoracion de los links  */
+    text-decoration: none;
+    color: saddlebrown;
 }
