@@ -1,0 +1,19 @@
+body{
+
+    margin:  0;
+
+}
+
+.titulo{
+
+    /* Tamaño de la letra */
+    font-size: large;
+    /* Color de la letra */
+   color:whitesmoke;
+    /* color de fondo */
+   background-color: blueviolet;
+
+   padding-right: 20px;
+
+
+}
